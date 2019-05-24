@@ -1,0 +1,113 @@
+html {
+    background-color: #FAF7F7;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-family: sans-serif;
+    color: #EA5045;
+    font-size: 1rem;
+    padding: 0vw 1vw;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    padding: 0vw 1vw;
+}
+
+
+h2 {
+    font-family: sans-serif;
+    color: #EA5045;
+    font-size: 1rem;
+    padding: 0vw 1vw;
+}
+
+/*
+section {
+    max-width: 50vw;
+    max-height: 30vw;
+    margin: 0 auto;
+    background-color: #FAF7F7;
+    margin: 2vw 2vw;
+    padding: 1vw;
+}
+*/
+
+#login .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#login .coltop {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#login .colbottom {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+
+}
+
+#login .user,
+.password {
+    width: 50vw;
+    background-color: #FFFFFF;
+    margin: 1vw 1vw;
+    padding: 0vw;
+
+}
+
+#login .continue {
+    width: 50vw;
+    background-color: #EA5045;
+    margin: 1vw 1vw;
+    padding: 0vw;
+
+
+}
+
+#login .fblogin {
+    width: 50vw;
+    background-color: #FFFFFF;
+    margin: 1vw 1vw;
+    padding: 0vw;
+}
+
+#login .logobag {
+    width: 100vw;
+    height: 40vw;
+    background-color: #EA5045;
+    background-size: cover;
+    margin: 0 auto;
+
+}
+
+#login .logo {
+    background-image: url(kealogo-01.svg);
+    background-color: #EA5045;
+    width: 40vw;
+    height: 15vw;
+    margin: 10vw 30vw;
+
+}
