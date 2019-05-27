@@ -1,0 +1,53 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.92 109.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #eb847c;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="34" y="27" width="42" height="42"/>
+    </clipPath>
+  </defs>
+  <title>Artboard 1</title>
+  <g id="Group_1566" data-name="Group 1566">
+    <rect id="Rectangle_1469" data-name="Rectangle 1469" class="cls-2" width="109.92" height="109.92"/>
+    <g id="Materialer" class="cls-3">
+      <text class="cls-4" transform="translate(26.4 87)">M<tspan class="cls-5" x="10.73" y="0">aterialer</tspan></text>
+    </g>
+    <g class="cls-6">
+      <g id="Folder">
+        <path id="Path_178" data-name="Path 178" class="cls-7" d="M34,57.68V31.58a2.69,2.69,0,0,1,.82-1.9A2.56,2.56,0,0,1,36.58,29H51.67a1.58,1.58,0,0,1,1.09.41,1.84,1.84,0,0,1,.81.95l1.36,3.8H73.28a2.72,2.72,0,0,1,1.9.82,2.46,2.46,0,0,1,.82,1.9V57.82a2.69,2.69,0,0,1-.82,1.9,2.47,2.47,0,0,1-1.9.81H36.58a2.72,2.72,0,0,1-1.9-.81A3.74,3.74,0,0,1,34,57.68Z"/>
+        <rect id="Rectangle_1447" data-name="Rectangle 1447" class="cls-1" x="34" y="27" width="42" height="42"/>
+      </g>
+    </g>
+  </g>
+</svg>

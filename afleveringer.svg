@@ -1,0 +1,91 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.87 109.92">
+  <defs>
+    <style>
+      .cls-1, .cls-12 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        font-size: 12px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-11 {
+        fill: #eb847c;
+      }
+
+      .cls-12 {
+        stroke: #f18d81;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="0.14" width="109.92" height="109.92"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="35.14" y="24" width="43" height="43"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" x="49.14" y="38" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <title>afleveringer</title>
+  <g id="Group_1578" data-name="Group 1578">
+    <g class="cls-2">
+      <g id="Component_4_2" data-name="Component 4 2">
+        <rect id="Rectangle_1477" data-name="Rectangle 1477" class="cls-3" x="0.14" width="109.92" height="109.92"/>
+      </g>
+    </g>
+    <g id="Afleveringer" class="cls-4">
+      <text class="cls-5" transform="translate(22.66 89)"><tspan class="cls-6">A</tspan><tspan x="7.92" y="0">fle</tspan><tspan class="cls-7" x="21.95" y="0">v</tspan><tspan class="cls-8" x="28.46" y="0">eringer</tspan></text>
+    </g>
+    <g class="cls-9">
+      <g id="Component_5_2" data-name="Component 5 2">
+        <g class="cls-10">
+          <g id="Down_arrow" data-name="Down arrow">
+            <path id="Path_10" data-name="Path 10" class="cls-11" d="M49.14,46l1.45,1.45L56.1,42V54h2.08V42l5.5,5.5L65.14,46l-8-8Z"/>
+          </g>
+        </g>
+        <g id="Rectangle_1479" data-name="Rectangle 1479">
+          <rect class="cls-1" x="35.14" y="24" width="43" height="43" rx="5"/>
+          <rect class="cls-12" x="37.14" y="26" width="39" height="39" rx="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110.06 109.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #eb847c;
+      }
+
+      .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="34.92" y="23.94" width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <title>favoritter</title>
+  <g id="Group_1571" data-name="Group 1571">
+    <rect id="Rectangle_1475" data-name="Rectangle 1475" class="cls-2" x="0.14" y="-0.06" width="109.92" height="109.92"/>
+    <g class="cls-3">
+      <g id="Bookmark">
+        <rect id="Rectangle_239" data-name="Rectangle 239" class="cls-1" x="34.92" y="23.94" width="40" height="40"/>
+        <path id="Path_110" data-name="Path 110" class="cls-4" d="M36.92,23.94h36v40l-18-15-18,15Z"/>
+      </g>
+    </g>
+    <g id="Favoritter" class="cls-5">
+      <text class="cls-6" transform="translate(27.83 88.94)"><tspan class="cls-7">F</tspan><tspan class="cls-8" x="6.5" y="0">a</tspan><tspan class="cls-9" x="12.82" y="0">v</tspan><tspan x="19.33" y="0">ori</tspan><tspan class="cls-10" x="34.37" y="0">t</tspan><tspan x="38.54" y="0">ter</tspan></text>
+    </g>
+  </g>
+</svg>

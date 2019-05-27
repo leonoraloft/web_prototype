@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228.92 109.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        font-size: 20px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+        letter-spacing: -0.09em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>techlounge</title>
+  <g id="Group_1569" data-name="Group 1569">
+    <rect id="Rectangle_1474" data-name="Rectangle 1474" class="cls-1" width="228.92" height="109.92"/>
+    <g id="Techlounge" class="cls-2">
+      <text class="cls-3" transform="translate(61.09 61)">T<tspan class="cls-4" x="8.72" y="0">e</tspan><tspan class="cls-5" x="19.98" y="0">chlounge</tspan></text>
+    </g>
+  </g>
+</svg>

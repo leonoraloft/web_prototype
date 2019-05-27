@@ -1,0 +1,49 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 106.56 109.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #eb847c;
+        fill-rule: evenodd;
+      }
+
+      .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="33.93" y="27" width="38.78" height="40"/>
+    </clipPath>
+  </defs>
+  <title>Artboard 2</title>
+  <g id="Group_1567" data-name="Group 1567">
+    <rect id="Rectangle_1471" data-name="Rectangle 1471" class="cls-2" width="106.56" height="109.92"/>
+    <g class="cls-3">
+      <g id="Calendar">
+        <rect id="Rectangle_557" data-name="Rectangle 557" class="cls-1" x="33.93" y="27" width="15.51" height="16"/>
+        <path id="Path_149" data-name="Path 149" class="cls-4" d="M38.78,39.5V62H67.86V39.5ZM65.43,32h4.85a2.31,2.31,0,0,1,2.42,2.22,1.31,1.31,0,0,1,0,.28v30A2.33,2.33,0,0,1,70.56,67a1.31,1.31,0,0,1-.28,0H36.35a2.31,2.31,0,0,1-2.42-2.22,1.31,1.31,0,0,1,0-.28v-30A2.33,2.33,0,0,1,36.08,32a1.22,1.22,0,0,1,.27,0H41.2V29.5A2.33,2.33,0,0,1,43.35,27a1.22,1.22,0,0,1,.27,0,2.32,2.32,0,0,1,2.43,2.22V32H60.59V29.5a2.42,2.42,0,1,1,4.84,0ZM63,57H58.16V52H63Zm-7.27,0H50.89V52h4.85ZM63,49.5H58.16v-5H63Zm-7.27,0H50.89v-5h4.85ZM48.47,57H43.62V52h4.85Z"/>
+      </g>
+    </g>
+    <g id="Skema" class="cls-5">
+      <text class="cls-6" transform="translate(35.43 87) scale(0.97 1)">Skema</text>
+    </g>
+  </g>
+</svg>

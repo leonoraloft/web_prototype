@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228.92 227.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        font-size: 40px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <title>aktuelt</title>
+  <g id="Group_1577" data-name="Group 1577">
+    <rect id="Rectangle_1480" data-name="Rectangle 1480" class="cls-1" x="0.14" width="228.92" height="227.92"/>
+    <g id="Aktuelt_" data-name="Aktuelt " class="cls-2">
+      <text class="cls-3" transform="translate(43.06 126)">Aktuelt</text>
+    </g>
+  </g>
+</svg>

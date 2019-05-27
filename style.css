@@ -39,8 +39,8 @@ h2 {
     font-family: sans-serif;
     color: #EA5045;
     font-size: 0.7rem;
-    text-align: center;
     padding: 0.5vw 1vw;
+    text-align: center;
 }
 
 /*LOGIN LOGO*/
@@ -133,7 +133,142 @@ input[type=submit] {
     text-align: center;
     position: absolute;
     top: 40vw;
-    font-family: sans-serif;
     color: #FFFFFF;
     font-size: 0.7rem;
+}
+
+/*index*/
+
+#forside .sectionwrapper {
+    background-color: #FAF7F7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#forside .colbox {
+    background-color: #FAF7F7;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+#forside .materialer {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(materialer.svg);
+}
+
+#forside .skema {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(skema.svg);
+}
+
+#forside .notifikationer {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(notifikationer.svg);
+}
+
+techlounge #forside .col {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+}
+
+#forside .techlounge {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 53vw;
+    background-image: url(techlounge.svg);
+}
+
+#forside .mail {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(mail.svg);
+}
+
+#forside .favoritter {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(favoritter.svg);
+}
+
+#forside .grupper {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(grupper.svg);
+}
+
+#forside .chat {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(chat.svg);
+}
+
+#forside .aktuelt {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 53vw;
+    width: 53vw;
+    background-image: url(aktuelt.svg);
+}
+
+#forside .sog {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(sog.svg);
+}
+
+#forside .afleveringer {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5vw;
+    height: 25vw;
+    width: 25vw;
+    background-image: url(afleveringer.svg);
 }

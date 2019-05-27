@@ -1,0 +1,54 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.92 109.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #eb847c;
+        fill-rule: evenodd;
+      }
+
+      .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        fill: #f18d81;
+        font-family: Gibson-SemiBold, Gibson;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="35.14" y="23.94" width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <title>mail</title>
+  <g id="Group_1570" data-name="Group 1570">
+    <rect id="Rectangle_1476" data-name="Rectangle 1476" class="cls-2" x="0.14" y="-0.06" width="109.92" height="109.92"/>
+    <g class="cls-3">
+      <g id="Messages">
+        <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-1" x="35.14" y="23.94" width="40" height="40"/>
+        <path id="Path_50" data-name="Path 50" class="cls-4" d="M70.14,31.94h-30l15,15Zm-35,0c0-3.3,2.25-6,5-6h30c2.75,0,5,2.7,5,6v24c0,3.3-2.25,6-5,6h-30c-2.75,0-5-2.7-5-6Z"/>
+      </g>
+    </g>
+    <g id="Mail" class="cls-5">
+      <text class="cls-6" transform="translate(43.27 86.94)">M<tspan class="cls-7" x="10.73" y="0">ail</tspan></text>
+    </g>
+  </g>
+</svg>
