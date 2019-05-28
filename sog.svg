@@ -9,40 +9,24 @@
         fill: #fff;
       }
 
-      .cls-3, .cls-4 {
-        isolation: isolate;
-      }
-
-      .cls-4 {
-        font-size: 12px;
-        fill: #f18d81;
-        font-family: Gibson-SemiBold, Gibson;
-        font-weight: 600;
-      }
-
-      .cls-5 {
+      .cls-3 {
         clip-path: url(#clip-path);
       }
 
-      .cls-6 {
+      .cls-4 {
         fill: #eb847c;
       }
     </style>
     <clipPath id="clip-path">
-      <rect class="cls-1" x="35.14" y="26.94" width="40" height="40"/>
+      <rect class="cls-1" x="24.14" y="22.08" width="64.2" height="59.86"/>
     </clipPath>
   </defs>
-  <title>søg</title>
-  <g id="Group_1576" data-name="Group 1576">
-    <rect id="Rectangle_1481" data-name="Rectangle 1481" class="cls-2" x="0.14" y="-0.06" width="109.92" height="109.92"/>
-    <g id="Søg" class="cls-3">
-      <text class="cls-4" transform="translate(44.48 88.94)">Søg</text>
-    </g>
-    <g class="cls-5">
-      <g id="Search">
-        <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-1" x="35.14" y="26.94" width="16" height="16"/>
-        <path id="Path_99" data-name="Path 99" class="cls-6" d="M75,63.33l-8.28-8.28a17.2,17.2,0,0,0,3.51-10.54A17.46,17.46,0,0,0,52.92,26.94H52.7A17.46,17.46,0,0,0,35.14,44.29v.22A17.46,17.46,0,0,0,52.49,62.08h.21a17.13,17.13,0,0,0,10.54-3.52l8.29,8.28ZM40.16,44.51A12.43,12.43,0,0,1,52.46,32h.24A12.43,12.43,0,0,1,65.25,44.27v.24A12.43,12.43,0,0,1,53,57.06H52.7a12.41,12.41,0,0,1-12.54-12.3Z"/>
-      </g>
+  <title>sog</title>
+  <rect id="Rectangle_1481" data-name="Rectangle 1481" class="cls-2" x="0.14" y="-0.06" width="109.92" height="109.92"/>
+  <g class="cls-3">
+    <g id="Search">
+      <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-1" x="24.14" y="22.08" width="25.68" height="23.95"/>
+      <path id="Path_99" data-name="Path 99" class="cls-4" d="M88.18,76.54,74.89,64.14a24.61,24.61,0,0,0,5.64-15.77c.09-14.43-12.37-26.2-27.85-26.29h-.35c-15.47-.09-28.1,11.54-28.19,26v.32C24,62.8,36.51,74.57,52,74.66h.34A29,29,0,0,0,69.25,69.4L82.54,81.8Zm-56-28.17c-.1-10.27,8.74-18.68,19.75-18.78h.39c11-.1,20,8.14,20.14,18.41v.37c.11,10.27-8.73,18.68-19.74,18.78h-.4c-11,.1-20-8.14-20.14-18.41Z"/>
     </g>
   </g>
 </svg>

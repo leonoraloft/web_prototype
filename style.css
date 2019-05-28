@@ -7,7 +7,7 @@ body {
 }
 
 img {
-    width: 100%;
+    width: 80%;
 }
 
 * {
@@ -40,6 +40,24 @@ h2 {
     color: #EA5045;
     font-size: 0.7rem;
     padding: 0.5vw 1vw;
+    text-align: center;
+}
+
+
+h3 {
+    font-family: sans-serif;
+    color: #F58E81;
+    font-size: 1rem;
+    text-align: center;
+    position: absolute;
+    top: 20vw;
+}
+
+
+h4 {
+    font-family: sans-serif;
+    color: #F58E81;
+    font-size: 1.5rem;
     text-align: center;
 }
 
@@ -154,44 +172,25 @@ input[type=submit] {
 }
 
 
-#forside .materialer {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(materialer.svg);
+
 }
 
-#forside .skema {
+#forside .col {
     background-color: #FFFFFF;
     display: flex;
     flex-wrap: wrap;
     margin: 1.5vw;
     height: 25vw;
     width: 25vw;
-    background-image: url(skema.svg);
 }
 
-#forside .notifikationer {
-    background-color: #FFFFFF;
+#forside a {
     display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(notifikationer.svg);
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-techlounge #forside .col {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-}
 
 #forside .techlounge {
     background-color: #FFFFFF;
@@ -200,47 +199,6 @@ techlounge #forside .col {
     margin: 1.5vw;
     height: 25vw;
     width: 53vw;
-    background-image: url(techlounge.svg);
-}
-
-#forside .mail {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(mail.svg);
-}
-
-#forside .favoritter {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(favoritter.svg);
-}
-
-#forside .grupper {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(grupper.svg);
-}
-
-#forside .chat {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(chat.svg);
 }
 
 #forside .aktuelt {
@@ -250,25 +208,5 @@ techlounge #forside .col {
     margin: 1.5vw;
     height: 53vw;
     width: 53vw;
-    background-image: url(aktuelt.svg);
-}
-
-#forside .sog {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(sog.svg);
-}
-
-#forside .afleveringer {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 1.5vw;
-    height: 25vw;
-    width: 25vw;
-    background-image: url(afleveringer.svg);
+    align-items: center;
 }

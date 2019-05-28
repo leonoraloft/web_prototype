@@ -1,7 +1,7 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.92 109.87">
   <defs>
     <style>
-      .cls-1, .cls-6 {
+      .cls-1, .cls-4 {
         fill: none;
       }
 
@@ -13,18 +13,7 @@
         fill: #fff;
       }
 
-      .cls-4, .cls-5 {
-        isolation: isolate;
-      }
-
-      .cls-5 {
-        font-size: 12px;
-        fill: #f18d81;
-        font-family: Gibson-SemiBold, Gibson;
-        font-weight: 600;
-      }
-
-      .cls-6 {
+      .cls-4 {
         stroke: #f18d81;
         stroke-linejoin: round;
         stroke-width: 3px;
@@ -35,24 +24,17 @@
     </clipPath>
   </defs>
   <title>chat</title>
-  <g id="Group_1575" data-name="Group 1575">
-    <g class="cls-2">
-      <g id="Component_4_1" data-name="Component 4 1">
-        <rect id="Rectangle_1477" data-name="Rectangle 1477" class="cls-3" x="0.14" y="-0.06" width="109.92" height="109.92"/>
-      </g>
+  <g class="cls-2">
+    <g id="Component_4_1" data-name="Component 4 1">
+      <rect id="Rectangle_1477" data-name="Rectangle 1477" class="cls-3" x="0.14" y="-0.06" width="109.92" height="109.92"/>
     </g>
-    <g id="Group_1574" data-name="Group 1574">
-      <g id="Chat" class="cls-4">
-        <text class="cls-5" transform="translate(44.31 88.94)">Chat</text>
-      </g>
-      <g id="Rectangle_1482" data-name="Rectangle 1482">
-        <path class="cls-1" d="M74.14,38.94h6a12,12,0,0,1,12,12v16a2,2,0,0,1-2,2h-16a12,12,0,0,1-12-12v-6A12,12,0,0,1,74.14,38.94Z"/>
-        <path class="cls-6" d="M74.14,40.44h6a10.51,10.51,0,0,1,10.5,10.5v16a.5.5,0,0,1-.5.5h-16a10.5,10.5,0,0,1-10.5-10.5v-6A10.51,10.51,0,0,1,74.14,40.44Z"/>
-      </g>
-      <g id="Rectangle_1483" data-name="Rectangle 1483">
-        <path class="cls-1" d="M37.14,22.94h6a12,12,0,0,1,12,12v6a12,12,0,0,1-12,12h-17a1,1,0,0,1-1-1v-17A12,12,0,0,1,37.14,22.94Z"/>
-        <path class="cls-6" d="M37.14,24.44h6a10.51,10.51,0,0,1,10.5,10.5v6a10.5,10.5,0,0,1-10.5,10.5h-16a.5.5,0,0,1-.5-.5v-16A10.51,10.51,0,0,1,37.14,24.44Z"/>
-      </g>
-    </g>
+  </g>
+  <g id="Rectangle_1482" data-name="Rectangle 1482">
+    <path class="cls-1" d="M76.14,39h7.6A15.19,15.19,0,0,1,98.92,54.17V74.41a2.53,2.53,0,0,1-2.53,2.53H76.14A15.18,15.18,0,0,1,61,61.76V54.17A15.19,15.19,0,0,1,76.14,39Z"/>
+    <path class="cls-4" d="M76.14,40.88h7.6A13.28,13.28,0,0,1,97,54.17V74.41a.64.64,0,0,1-.63.64H76.14A13.29,13.29,0,0,1,62.86,61.76V54.17A13.29,13.29,0,0,1,76.14,40.88Z"/>
+  </g>
+  <g id="Rectangle_1483" data-name="Rectangle 1483">
+    <path class="cls-1" d="M29.32,18.74h7.6A15.18,15.18,0,0,1,52.1,33.92v7.59A15.19,15.19,0,0,1,36.92,56.7H15.4a1.26,1.26,0,0,1-1.26-1.27V33.92A15.18,15.18,0,0,1,29.32,18.74Z"/>
+    <path class="cls-4" d="M29.32,20.63h7.6A13.29,13.29,0,0,1,50.2,33.92v7.59A13.29,13.29,0,0,1,36.92,54.8H16.67a.63.63,0,0,1-.63-.63V33.92A13.28,13.28,0,0,1,29.32,20.63Z"/>
   </g>
 </svg>

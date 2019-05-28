@@ -1,4 +1,4 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.92 109.92">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 112.09 109.98">
   <defs>
     <style>
       .cls-1 {
@@ -9,52 +9,36 @@
         fill: #fff;
       }
 
-      .cls-3, .cls-4 {
-        isolation: isolate;
-      }
-
-      .cls-4 {
-        font-size: 12px;
-        fill: #f18d81;
-        font-family: Gibson-SemiBold, Gibson;
-        font-weight: 600;
-      }
-
-      .cls-5 {
+      .cls-3 {
         clip-path: url(#clip-path);
       }
 
-      .cls-6 {
+      .cls-4 {
         fill: #eb847c;
       }
 
-      .cls-7 {
+      .cls-5 {
         clip-path: url(#clip-path-2);
       }
     </style>
     <clipPath id="clip-path">
-      <rect class="cls-1" x="30" y="38.37" width="24.57" height="24.57"/>
+      <rect class="cls-1" x="17.19" y="41.38" width="38.7" height="38.7"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <rect class="cls-1" x="56.18" y="27.7" width="24.57" height="24.57"/>
+      <rect class="cls-1" x="58.42" y="24.57" width="38.7" height="38.7"/>
     </clipPath>
   </defs>
   <title>grupper</title>
-  <g id="Group_1573" data-name="Group 1573">
-    <rect id="Rectangle_1478" data-name="Rectangle 1478" class="cls-2" y="-0.06" width="109.92" height="109.92"/>
-    <g id="Grupper" class="cls-3">
-      <text class="cls-4" transform="translate(31.53 88.94)">Grupper</text>
-    </g>
-    <g id="Group_1572" data-name="Group 1572">
-      <g class="cls-5">
-        <g id="Profile">
-          <path id="Union_1" data-name="Union 1" class="cls-6" d="M30,62.94V59.87c0-3.37,5.53-6.14,12.28-6.14s12.29,2.76,12.29,6.14v3.07Zm6.14-18.42a6.15,6.15,0,1,1,6.14,6.14A6.14,6.14,0,0,1,36.14,44.52Z"/>
-        </g>
+  <rect id="Rectangle_1478" data-name="Rectangle 1478" class="cls-2" width="109.92" height="109.92"/>
+  <g id="Group_1572" data-name="Group 1572">
+    <g class="cls-3">
+      <g id="Profile">
+        <path id="Union_1" data-name="Union 1" class="cls-4" d="M17.19,80.08V75.24c0-5.32,8.71-9.67,19.35-9.67s19.35,4.35,19.35,9.67v4.84Zm9.67-29a9.68,9.68,0,1,1,9.68,9.67A9.69,9.69,0,0,1,26.86,51.06Z"/>
       </g>
-      <g class="cls-7">
-        <g id="Profile-2">
-          <path id="Union_1-2" data-name="Union 1-2" class="cls-6" d="M56.18,52.27V49.2c0-3.38,5.52-6.15,12.28-6.15s12.29,2.77,12.29,6.15v3.07Zm6.14-18.43A6.14,6.14,0,1,1,68.46,40,6.14,6.14,0,0,1,62.32,33.84Z"/>
-        </g>
+    </g>
+    <g class="cls-5">
+      <g id="Profile-2">
+        <path id="Union_1-2" data-name="Union 1-2" class="cls-4" d="M58.42,63.26V58.43c0-5.32,8.7-9.68,19.34-9.68s19.35,4.35,19.35,9.68v4.83Zm9.67-29a9.68,9.68,0,1,1,9.67,9.68A9.67,9.67,0,0,1,68.09,34.24Z"/>
       </g>
     </g>
   </g>
