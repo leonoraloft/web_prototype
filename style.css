@@ -209,6 +209,14 @@ input[type=submit] {
     align-items: center;
 }
 
+
+/*Header*/
+
+header {
+    background-color: #EA5045;
+    height: 10vw;
+}
+
 /*Burgermenu*/
 
 .hidden {
