@@ -59,6 +59,15 @@ h4 {
     text-align: center;
 }
 
+h5 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    text-align: center;
+    padding: 2vw;
+}
+
+
 /*LOGIN LOGO*/
 
 #login .logobag {
@@ -216,9 +225,7 @@ input[type=submit] {
 
 
 /*Header*/
-header {
-    background-color: #EA5045;
-}
+
 
 header img {
     width: 40%;
@@ -226,6 +233,12 @@ header img {
 }
 
 /*Burgermenu*/
+
+header {
+    background: #EA5045;
+    height: 80px;
+    width: 100%;
+}
 
 .hidden {
     transform: scale(0);
@@ -281,9 +294,16 @@ ul {
 #menu {
     list-style-type: none;
     transition: transform .5s;
-    transform-origin: top left;
     background-color: #3F3140;
-    padding: 3vw 5vw 15vw 5vw;
+}
+
+.log {
+    padding: 0vw 10vw 16vw 12vw;
+}
+
+.logud {
+    background-color: #EA847C;
+    height: 8vw;
 }
 
 /*mediacure*/
@@ -298,8 +318,7 @@ ul {
         opacity: 1;
     }
 
-    #menu li {
-        display: inline-block;
+    header {
+        display: block;
     }
-
 }
