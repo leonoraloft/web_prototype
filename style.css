@@ -48,9 +48,7 @@ h3 {
     font-family: sans-serif;
     color: #F58E81;
     font-size: 1rem;
-    text-align: center;
-    position: absolute;
-    top: 20vw;
+    margin: -2vw -2vw;
 }
 
 
@@ -172,16 +170,13 @@ input[type=submit] {
 }
 
 
-
-}
-
 #forside .col {
     background-color: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
     margin: 1.5vw;
     height: 25vw;
     width: 25vw;
+    justify-content: center;
+    align-items: center;
 }
 
 #forside a {
@@ -199,6 +194,8 @@ input[type=submit] {
     margin: 1.5vw;
     height: 25vw;
     width: 53vw;
+    justify-content: center;
+    align-items: center;
 }
 
 #forside .aktuelt {
@@ -208,5 +205,8 @@ input[type=submit] {
     margin: 1.5vw;
     height: 53vw;
     width: 53vw;
+    justify-content: center;
     align-items: center;
 }
+
+/*Burgermenu*/
