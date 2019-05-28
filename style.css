@@ -213,8 +213,15 @@ input[type=submit] {
 /*Header*/
 
 header {
+    display: flex;
     background-color: #EA5045;
     height: 10vw;
+    padding: 2vw;
+    justify-content: space-between;
+}
+
+header img {
+    width: 20%;
 }
 
 /*Burgermenu*/
@@ -226,9 +233,12 @@ header {
     opacity: 0;
 }
 
+/*menu*/
+
 #menuknap {
     display: inline-block;
     color: #FFFFFF;
+    margin-right: 3vw;
 }
 
 #menu {
