@@ -210,3 +210,50 @@ input[type=submit] {
 }
 
 /*Burgermenu*/
+
+.hidden {
+    transform: scale(0);
+    display: none;
+    transform: translateX(-100%);
+    opacity: 0;
+}
+
+#menuknap {
+    display: inline-block;
+    color: #FFFFFF;
+}
+
+#menu {
+    background-color: #3F3140;
+    transition: transform .5s;
+    height: 115vw;
+}
+
+#menu h3 {
+    margin: 3vw;
+    text-align: center;
+
+}
+
+
+#menu img {
+    justify-content: center;
+    width: 100%;
+}
+
+
+@media only screen and (min-width: 600vw) {
+
+    #menuknap {
+        display: none;
+    }
+
+    #menu.hidden {
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+    #menu li {
+        display: inline-block;
+    }
+}
