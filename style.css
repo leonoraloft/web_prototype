@@ -235,12 +235,11 @@ input[type=submit] {
 
 }
 
-
 #menu img {
     justify-content: center;
     width: 100%;
+    padding: 5vw 20vw;
 }
-
 
 @media only screen and (min-width: 600vw) {
 
@@ -251,9 +250,5 @@ input[type=submit] {
     #menu.hidden {
         transform: translateX(0);
         opacity: 1;
-    }
-
-    #menu li {
-        display: inline-block;
     }
 }
