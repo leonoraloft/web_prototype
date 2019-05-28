@@ -7,7 +7,7 @@ body {
 }
 
 img {
-    width: 80%;
+    width: 100%;
 }
 
 * {
@@ -160,6 +160,7 @@ input[type=submit] {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 2vw 0vw;
 }
 
 #forside .colbox {
@@ -187,6 +188,10 @@ input[type=submit] {
 }
 
 
+#forside img {
+    width: 80%;
+}
+
 #forside .techlounge {
     background-color: #FFFFFF;
     display: flex;
@@ -211,17 +216,13 @@ input[type=submit] {
 
 
 /*Header*/
-
 header {
-    display: flex;
     background-color: #EA5045;
-    height: 10vw;
-    padding: 2vw;
-    justify-content: space-between;
 }
 
 header img {
-    width: 30%;
+    width: 40%;
+    margin: 1vw;
 }
 
 /*Burgermenu*/
@@ -235,16 +236,15 @@ header img {
 
 /*menu*/
 
-#menuknap {
-    display: inline-block;
-    color: #FFFFFF;
-    margin-right: 3vw;
+ul {
+    margin: 0;
+    padding: 0;
 }
 
-#menu {
-    background-color: #3F3140;
-    transition: transform .5s;
-    height: 115vw;
+
+.logocol {
+    display: flex;
+    justify-content: center;
 }
 
 #menu h3 {
@@ -259,7 +259,35 @@ header img {
     padding: 5vw 20vw;
 }
 
-@media only screen and (min-width: 600vw) {
+.hh {
+    display: flex;
+    justify-content: space-between;
+    height: 10vw;
+}
+
+.hidden {
+    transform: translateX(-100%);
+    opacity: 0;
+}
+
+#menuknap {
+    display: flex;
+    justify-content: flex-end;
+    color: #FFFFFF;
+    width: 5vw;
+    margin: 2vw 8vw;
+}
+
+#menu {
+    list-style-type: none;
+    transition: transform .5s;
+    transform-origin: top left;
+    background-color: #3F3140;
+    padding: 3vw 5vw 15vw 5vw;
+}
+
+/*mediacure*/
+@media only screen and (min-width: 600px) {
 
     #menuknap {
         display: none;
@@ -269,4 +297,9 @@ header img {
         transform: translateX(0);
         opacity: 1;
     }
+
+    #menu li {
+        display: inline-block;
+    }
+
 }

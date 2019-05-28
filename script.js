@@ -7,11 +7,12 @@ function sidenVises() {
 
 }
 
-
 function toggleMenu() {
     console.log("toggleMenu");
     document.querySelector("#menu").classList.toggle("hidden");
     document.querySelector("#forside").classList.toggle("hidden");
+
+    document.querySelector("header img").classList.toggle("hidden");
 
     let erSkjult = document.querySelector("#menu").classList.contains("hidden");
 
