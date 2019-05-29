@@ -6,6 +6,13 @@ body {
     margin: 0;
 }
 
+main {
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 img {
     width: 100%;
 }
@@ -47,7 +54,7 @@ h2 {
 h3 {
     font-family: sans-serif;
     color: #F58E81;
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: -2vw -2vw;
 }
 
