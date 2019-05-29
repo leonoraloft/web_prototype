@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 119.5 122.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #eb847c;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="29.39" y="31.46" width="60.87" height="60.87"/>
+    </clipPath>
+  </defs>
+  <title>mat</title>
+  <g class="cls-2">
+    <g id="Folder">
+      <path id="Path_178" data-name="Path 178" class="cls-3" d="M29.39,75.92V38.1a3.89,3.89,0,0,1,1.18-2.76,3.73,3.73,0,0,1,2.56-1H55a2.19,2.19,0,0,1,1.57.59,2.54,2.54,0,0,1,1.18,1.38l2,5.51h26.6A3.89,3.89,0,0,1,89.07,43a3.59,3.59,0,0,1,1.19,2.76V76.12a3.89,3.89,0,0,1-1.18,2.75,3.58,3.58,0,0,1-2.76,1.19H33.13a3.86,3.86,0,0,1-2.75-1.19A5.22,5.22,0,0,1,29.39,75.92Z"/>
+      <rect id="Rectangle_1447" data-name="Rectangle 1447" class="cls-1" x="29.39" y="31.46" width="60.87" height="60.87"/>
+    </g>
+  </g>
+</svg>

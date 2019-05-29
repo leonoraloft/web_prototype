@@ -361,6 +361,8 @@ h8 {
 }
 
 
+
+
 #skema .sectionwrapper {
     display: flex;
     flex-wrap: wrap;
@@ -380,6 +382,7 @@ h8 {
     flex-grow: 1;
     flex-basis: 15vw;
     background-color: #F2F1F0;
+    padding-left: 4vw;
 }
 
 #skema .tidcol {
@@ -415,6 +418,85 @@ h8 {
 }
 
 #skema .datotext {
+    display: flex;
+    background-color: #3F3140;
+    flex-direction: column;
+    padding: 2vw;
+    text-align: center;
+}
+
+#skema .icon {
+    flex-basis: 15vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2F1F0;
+    padding: 2vw;
+}
+
+/*Materialer*/
+
+#materialer {
+    background-color: #FFFFFF;
+}
+
+#materialer .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: #FFFFFF;
+
+}
+
+#materialer .colskema {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2vw;
+    background-color: #FFFFFF;
+}
+
+#materialer .text {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 15vw;
+    background-color: #F2F1F0;
+    padding-left: 4vw;
+}
+
+#materialer .icon {
+    flex-basis: 15vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2F1F0;
+    padding: 2vw;
+}
+
+#materialer .tid {
+    background-color: #FFFFFF;
+    margin: 0.5vw;
+}
+
+#materialer .skemainfo {
+    display: flex;
+    background-color: #DEDCDB;
+    justify-content: space-between;
+}
+
+#materialer .skematext {
+    display: flex;
+    background-color: #DEDCDB;
+    flex-direction: column;
+    padding: 2vw;
+}
+
+#materialer .skemadato {
+    display: flex;
+    background-color: #3F3140;
+    justify-content: center;
+    align-items: center;
+}
+
+#materialer .datotext {
     display: flex;
     background-color: #3F3140;
     flex-direction: column;

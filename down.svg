@@ -1,0 +1,47 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 119.64 122.79">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #eb847c;
+      }
+
+      .cls-5 {
+        stroke: #f18d81;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="SVGID" class="cls-1" x="31.14" y="32.28" width="58.72" height="58.72" transform="translate(-1.92 121.34) rotate(-89.26)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="SVGID-2" data-name="SVGID" class="cls-1" x="48.9" y="50.02" width="21.85" height="21.85" transform="translate(-1.89 119.98) rotate(-89.26)"/>
+    </clipPath>
+  </defs>
+  <title>down</title>
+  <g class="cls-2">
+    <g id="Component_5_2" data-name="Component 5 2">
+      <g class="cls-3">
+        <g id="Down_arrow" data-name="Down arrow">
+          <path id="Path_10" data-name="Path 10" class="cls-4" d="M70.75,61.09l-2-2L61.17,66.5,61.38,50l-2.83,0-.22,16.45-7.42-7.61-2,2L59.68,71.87Z"/>
+        </g>
+      </g>
+      <g id="Rectangle_1479" data-name="Rectangle 1479">
+        <rect class="cls-1" x="31.14" y="32.28" width="58.72" height="58.72" rx="6.83" transform="translate(-1.92 121.34) rotate(-89.26)"/>
+        <rect class="cls-5" x="33.87" y="35.01" width="53.26" height="53.26" rx="4.1" transform="translate(-1.92 121.34) rotate(-89.26)"/>
+      </g>
+    </g>
+  </g>
+</svg>
