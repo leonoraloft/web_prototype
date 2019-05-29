@@ -38,7 +38,7 @@ h1 {
     color: #FFFFFF;
     font-size: 0.7rem;
     padding: 1vw 1vw;
-    text-align: center;
+    text-align: right;
 }
 
 
@@ -296,6 +296,12 @@ ul {
     color: #FFFFFF;
     width: 5vw;
     margin: 2vw 8vw;
+}
+
+#menuknapluk {
+    display: flex;
+    justify-content: flex-end;
+    width: 93vw;
 }
 
 #menu {
