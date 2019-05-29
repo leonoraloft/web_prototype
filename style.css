@@ -329,3 +329,89 @@ ul {
         display: block;
     }
 }
+
+/*skema*/
+
+h6 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 0.8rem;
+    margin: 1vw;
+}
+
+h7 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 0.8rem;
+    margin: 1vw;
+}
+
+h8 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 0.7rem;
+    padding: 1vw 0vw;
+    text-align: center;
+}
+
+
+#skema .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#skema .colskema {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #F2F1F0;
+    margin: 2vw;
+}
+
+#skema .text {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 15vw;
+    background-color: #F2F1F0;
+}
+
+#skema .tidcol {
+    flex-basis: 15vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2F1F0;
+}
+
+#skema .tid {
+    background-color: #FFFFFF;
+    margin: 0.5vw;
+}
+
+#skema .skemainfo {
+    display: flex;
+    background-color: #DEDCDB;
+    justify-content: space-between;
+}
+
+#skema .skematext {
+    display: flex;
+    background-color: #DEDCDB;
+    flex-direction: column;
+    padding: 2vw;
+}
+
+#skema .skemadato {
+    display: flex;
+    background-color: #3F3140;
+    justify-content: center;
+    align-items: center;
+}
+
+#skema .datotext {
+    display: flex;
+    background-color: #3F3140;
+    flex-direction: column;
+    padding: 2vw;
+    text-align: center;
+}
