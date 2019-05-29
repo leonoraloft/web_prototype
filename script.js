@@ -5,20 +5,14 @@ function sidenVises() {
 
     document.querySelector("#menuknap").addEventListener("click", toggleMenu);
 
-    document.querySelector("#menuknapluk").addEventListener("click", toggleMenuOff);
 
+    document.querySelector("#menuknapluk").addEventListener("click", toggleMenu)
 }
 
 function toggleMenu() {
     console.log("toggleMenu");
     document.querySelector("#menu").classList.toggle("hidden");
-    document.querySelector("#forside").classList.toggle("hidden");
     document.querySelector("header").classList.toggle("hidden");
-}
+    document.querySelector("main").classList.toggle("hidden");
 
-function toggleMenuOff() {
-    console.log("toggleMenuOff");
-    document.querySelector("#menu").classList.toggle("hidden");
-    document.querySelector("#forside").classList.toggle("hidden");
-    document.querySelector("header").classList.toggle("hidden");
 }
