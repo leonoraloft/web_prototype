@@ -5,8 +5,6 @@ function sidenVises() {
 
     document.querySelector("#menuknap").addEventListener("click", toggleMenu);
 
-
-    document.querySelector("#menuknapluk").addEventListener("click", toggleMenu)
 }
 
 function toggleMenu() {
